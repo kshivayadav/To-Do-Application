@@ -6,40 +6,46 @@ Task data is stored in the browser using localStorage, ensuring persistence acro
 
 
 ✅ Features
-Add new tasks dynamically
+> Add new tasks dynamically
 
-Edit existing tasks
+> Edit existing tasks
 
-Delete tasks
+> Delete tasks
 
-Mark tasks as complete/incomplete
+> Mark tasks as complete/incomplete
 
-Store tasks in browser using localStorage
+> Store tasks in browser using localStorage
 
-Mobile-friendly and responsive UI with Bootstrap
+> Mobile-friendly and responsive UI with Bootstrap
+
 
 
 
 🛠️ Tech Stack
-HTML – Structure and layout
+> HTML – Structure and layout
 
-CSS – Custom styling
+> CSS – Custom styling
 
-JavaScript – App functionality and interactivity
+> JavaScript – App functionality and interactivity
 
-Bootstrap – Responsive design framework
+> Bootstrap – Responsive design framework
 
-localStorage – Persistent client-side data storage
+> localStorage – Persistent client-side data storage
+
 
 
 
 🌟 Future Improvements
- Add task categories or color labels
+ > Add task categories or color labels
 
- Implement due dates and reminders
+ > Implement due dates and reminders
 
- Add drag-and-drop task reordering
+ > Add drag-and-drop task reordering
 
- Add dark mode toggle
+ > Add dark mode toggle
 
- Export and import task data
+ > Export and import task data
+
+ > Add dark mode toggle
+
+ > Export and import task data
