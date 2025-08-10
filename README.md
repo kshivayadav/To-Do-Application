@@ -4,11 +4,11 @@ This app allows users to efficiently manage daily tasks by adding, editing, dele
 Task data is stored in the browser using localStorage, ensuring persistence across sessions without requiring a backend.
 
 ✅ Features
-> Add new tasks dynamically
-> Edit and delete existing tasks
-> Mark tasks as complete/incomplete
-> Persistent task storage with localStorage
-> Responsive and mobile-friendly UI with Bootstrap
+Add new tasks dynamically
+Edit and delete existing tasks
+Mark tasks as complete/incomplete
+Persistent task storage with localStorage
+Responsive and mobile-friendly UI with Bootstrap
 
 💡 Tech Stack
 > HTML – Page structure
