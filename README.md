@@ -10,6 +10,21 @@ Mark tasks as complete/incomplete
 Persistent task storage with localStorage
 Responsive and mobile-friendly UI with Bootstrap
 
+✅ Features
+Add new tasks dynamically
+
+Edit existing tasks
+
+Delete tasks
+
+Mark tasks as complete/incomplete
+
+Store tasks in browser using localStorage
+
+Mobile-friendly and responsive UI with Bootstrap
+
+
+
 💡 Tech Stack
 > HTML – Page structure
 > CSS – Custom styling
